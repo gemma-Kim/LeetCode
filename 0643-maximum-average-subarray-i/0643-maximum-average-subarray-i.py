@@ -14,5 +14,4 @@ class Solution(object):
             max_sum = max(max_sum, current)
             left += 1
             right += 1
-
         return max_sum / float(k)
