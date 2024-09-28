@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
