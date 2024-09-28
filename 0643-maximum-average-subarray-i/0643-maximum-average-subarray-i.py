@@ -12,7 +12,6 @@ class Solution(object):
         while right < len(nums):
             current = current - nums[left] + nums[right]
             max_sum = max(max_sum, current)
-            print('max_sum', max_sum)
             left += 1
             right += 1
 
