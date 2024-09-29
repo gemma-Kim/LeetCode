@@ -17,7 +17,7 @@ class Solution(object):
         while queue:
             current_sum = 0
             queue_len = len(queue) 
-            for i in range(len(queue)):
+            for i in range(queue_len):
                 node = queue.pop(0)
                 current_sum += node.val
                 if node.left:
