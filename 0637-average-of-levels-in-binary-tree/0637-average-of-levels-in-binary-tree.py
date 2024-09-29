@@ -10,13 +10,10 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[float]
         """
-        if not root:
-            return []
-
         result = []
-        
-        queue = [root]
-
+        queue = []
+        if root:
+            queue.append(root)
         while queue:
             current_sum = 0
             queue_len = len(queue) 
