@@ -3,8 +3,8 @@ class Solution(object):
         maxLen = 0
         if not s:
             return maxLen
-        current_s = s[0]
-        for i in range(1, len(s)):
+        current_s = "" #s[0]
+        for i in range(len(s)):
             if s[i] in current_s:
                 for j in range(len(current_s)):
                     if s[i] == current_s[j]:
