@@ -19,5 +19,4 @@ class Solution(object):
                     stack = stack[:-1]
                 else:
                     stack += ss
-        print(stack)
-        return True if not stack else False
+        return False if stack else True
