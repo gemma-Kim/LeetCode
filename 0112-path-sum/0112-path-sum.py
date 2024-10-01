@@ -5,15 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def getSum(self, node):
-        result = 0
-        if node:
-            result += node.val
-            if node.left:
-                result += self.getSum(node.left)
-            if node.right:
-                result += self.getSum(node.right)
-        return result
     def hasPathSum(self, root, targetSum):
         """
         :type root: TreeNode
