@@ -8,7 +8,7 @@ class Solution(object):
         result = sorted_strs[0]
         for word in sorted_strs[1:]:
             if not result:
-                return ""
+                break
             if result == word:
                 continue
             
