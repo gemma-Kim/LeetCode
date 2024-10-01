@@ -21,7 +21,7 @@ class Solution(object):
                     if max_v <= nums[j] + j:
                         max_v = nums[j] + j
                         new_p = j
-                else:
-                    break
+                # else:
+                #     break
             position = new_p
         return count
