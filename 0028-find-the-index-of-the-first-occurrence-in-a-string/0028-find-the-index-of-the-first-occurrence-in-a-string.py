@@ -5,7 +5,6 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        # word = ""
         for i in range(len(haystack) - len(needle) + 1):
             if haystack[i:i+len(needle)] == needle:
                 return i
