@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: str
         """
         result = []
-        for word in path.split('/'):
+        path_list = path.split('/')
+        for word in path_list:
             if word:
                 if word == "..":
                     result = result[:-1]
