@@ -5,13 +5,18 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        tw = {}
+        s_to_t = {}
+        t_to_s = {}
         for i in range(len(s)):
-            if s[i] in tw.keys() and t[i] in tw.values():
-                if tw[s[i]] != t[i]:
+            char_s, char_t = s[i], t[i]
+
+            if char_s in s_to_t:
+                if char_t != s_to_t[char_s]:
                     return False
-            elif s[i] not in tw.keys() and t[i] not in tw.values():                
-                tw[s[i]] = t[i]
-            else:
-                return False
+            if char_t in t_to_s:
+                if char_s != t_to_s[char_t]:
+                    return False
+
+            s_to_t[char_s] = char_t
+            t_to_s[char_t] = char_s
         return True
