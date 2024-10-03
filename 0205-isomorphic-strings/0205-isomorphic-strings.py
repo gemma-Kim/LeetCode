@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: bool
         """
         tw = {}
-        tw_keys = []
+        # tw_keys = []
         tw_values = []
         for i in range(len(s)):
             if s[i] in tw.keys() and t[i] in tw_values:
