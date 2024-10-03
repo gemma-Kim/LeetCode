@@ -14,5 +14,5 @@ class Solution(object):
                     continue
                 else:
                     result.append(word)
-        result = '/'.join(result)
-        return "/" + result
+        # result = '/'.join(result)
+        return "/" + '/'.join(result)
