@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gemma-Kim/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/gemma-Kim/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gemma-Kim/LeetCode/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
