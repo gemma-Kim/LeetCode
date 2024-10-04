@@ -5,19 +5,17 @@ class Solution(object):
         :rtype: int
         """
         tokens_list = []
+        result = 0
         for token in tokens:
-            result = 0
-            if token == "*":
+            if token in ["+", "-", "*", "/"]:
                 last, next_last = tokens_list.pop(-1), tokens_list.pop(-1)
+            if token == "*":
                 result = last * next_last
             elif token == "/":
-                last, next_last = tokens_list.pop(-1), tokens_list.pop(-1)
-                result = result = int(float(next_last) / last)  # 여기 수정
+                result = result = int(float(next_last) / last)
             elif token == "+":
-                last, next_last = tokens_list.pop(-1), tokens_list.pop(-1)
                 result = last + next_last
             elif token == "-":
-                last, next_last = tokens_list.pop(-1), tokens_list.pop(-1)
                 result = next_last - last
             else:
                 result = int(token)
