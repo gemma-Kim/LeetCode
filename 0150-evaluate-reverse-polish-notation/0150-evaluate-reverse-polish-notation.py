@@ -14,7 +14,7 @@ class Solution(object):
                     tokens_list.append(int(float(next_last) / last))
                 elif token == "+":
                     tokens_list.append(last + next_last)
-                elif token == "-":
+                else:
                     tokens_list.append(next_last - last)
             else:
                 tokens_list.append(int(token))
