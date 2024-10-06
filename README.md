@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/gemma-Kim/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gemma-Kim/LeetCode/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/gemma-Kim/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
