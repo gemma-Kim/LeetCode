@@ -11,7 +11,6 @@ class Solution(object):
             return False
         for i in range(len(pattern)):
             if pattern[i] in p_dic:
-                print('_______________', i)
                 if p_dic[pattern[i]] != s_list[i]:
                     return False
             elif s_list[i] in p_dic.values():
