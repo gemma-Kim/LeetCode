@@ -32,8 +32,7 @@ class Solution(object):
             if next_val == 1:
                 current_node.next = ListNode(1)
         else:
-            next_node = self.addTwoNumbers(l1.next, l2.next)
-            current_node.next = next_node
+            current_node.next = self.addTwoNumbers(l1.next, l2.next)
         
         return current_node
         
