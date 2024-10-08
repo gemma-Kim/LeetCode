@@ -18,7 +18,6 @@ class Solution(object):
             l2 = ListNode(0)
 
         current_node = ListNode(l1.val + l2.val)
-        # current_val = l1.val + l2.val
         next_val = 1 if current_node.val >= 10 else 0
         if current_node.val >= 10:
             current_node.val -= 10
