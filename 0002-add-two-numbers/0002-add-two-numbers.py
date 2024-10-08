@@ -28,8 +28,14 @@ class Solution(object):
             
         current_node = ListNode(current_val)
         
-        if l1.next or l2.next:              
-            next_node = self.addTwoNumbers(l1.next if l1.next else ListNode(0), l2.next if l2.next else ListNode(0))
+        if l1.next and l2.next:              
+            next_node = self.addTwoNumbers(l1.next, l2.next)
+            current_node.next = next_node
+        elif l1.next and not l2.next:              
+            next_node = self.addTwoNumbers(l1.next,ListNode(0))
+            current_node.next = next_node
+        elif not l1.next and l2.next:              
+            next_node = self.addTwoNumbers(ListNode(0), l2.next)
             current_node.next = next_node
         else:
             if next_val == 1:
