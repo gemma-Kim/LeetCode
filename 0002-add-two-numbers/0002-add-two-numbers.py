@@ -17,14 +17,16 @@ class Solution(object):
         elif l1 and not l2:
             l2 = ListNode(0)
 
-        current_node = ListNode(l1.val + l2.val)
-        next_val = 1 if current_node.val >= 10 else 0
-        if current_node.val >= 10:
-            current_node.val -= 10
+        current_val = l1.val + l2.val
+        next_val = 1 if current_val >= 10 else 0
+        if current_val >= 10:
+            current_val -= 10
             if l1.next:
                 l1.next.val = l1.next.val + 1
             elif l2.next:
                 l2.next.val = l2.next.val + 1
+            
+        current_node = ListNode(current_val)
         
         if not l1.next and not l2.next:
             if next_val == 1:
