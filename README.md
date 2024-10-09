@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/gemma-Kim/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gemma-Kim/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
+| [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gemma-Kim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gemma-Kim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
