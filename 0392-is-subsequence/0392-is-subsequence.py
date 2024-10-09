@@ -2,12 +2,11 @@ class Solution(object):
     def isSubsequence(self, s, t):
         if not s:
             return True
-        ss = s
 
         for w in t:
-            if ss[0] == w:
-                ss = ss[1:]
-            if not ss:
+            if s[0] == w:
+                s = s[1:]
+            if not s:
                 return True
         return False
         
