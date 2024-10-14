@@ -10,12 +10,11 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+        result = 0
         if not root:
-            return 0
-        result = 1
+            return result
+        result += 1
         result += self.countNodes(root.left)
         result += self.countNodes(root.right)
-        # result += left_cnt
-        # result += right_cnt
         return result
         
