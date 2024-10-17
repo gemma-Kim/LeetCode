@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gemma-Kim/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gemma-Kim/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gemma-Kim/LeetCode/tree/master/0383-ransom-note) |
 ## String
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/gemma-Kim/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/gemma-Kim/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gemma-Kim/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gemma-Kim/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gemma-Kim/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
