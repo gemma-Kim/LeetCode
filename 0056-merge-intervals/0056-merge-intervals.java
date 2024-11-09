@@ -1,11 +1,6 @@
 class Solution {
     private boolean ifOverlap(int[] i1, int[] i2) {
-        int i1_end = i1[1];
-        int i2_start = i2[0];
-        if (i1_end >= i2_start) {
-            return true;
-        }
-        return false;
+        return i1[1] >= i2[0];
     }
 
     public int[][] merge(int[][] intervals) {
@@ -26,11 +21,5 @@ class Solution {
         }
 
         return result.toArray(new int[result.size()][]);
-        // int[][] final_result = new int[result.size()][];
-        // for (int i = 0; i < result.size(); i++) {
-        //     final_result[i] = result.get(i);
-        // }
-
-        // return final_result;
     }
 }
