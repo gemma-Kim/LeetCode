@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gemma-Kim/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/gemma-Kim/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gemma-Kim/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gemma-Kim/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/gemma-Kim/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/gemma-Kim/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
