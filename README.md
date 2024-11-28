@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gemma-Kim/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gemma-Kim/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gemma-Kim/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gemma-Kim/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/gemma-Kim/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gemma-Kim/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
