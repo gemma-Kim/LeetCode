@@ -9,35 +9,21 @@ class Solution {
         }
         
         if (num / 100 > 0) {
-            
-
-            String r =cleanUp(num, 100, "CM", "D", "C");
-            
-            result.append(r);
+            result.append(cleanUp(num, 100, "CM", "D", "C"));
             int quotient = num / 100;
             num -= quotient * 100;
-
-            
         }
 
         if (num / 10 > 0) {
-            String r =cleanUp(num, 10, "XC", "L", "X");
-            
-            result.append(r);
+            result.append(cleanUp(num, 10, "XC", "L", "X"));
             int quotient = num / 10;
             num -= quotient * 10;
-            
         }
 
         if (num / 1 > 0) {
-            
-            
-            String r =cleanUp(num, 1, "IX", "V", "I");
-            
-            result.append(r);
+            result.append(cleanUp(num, 1, "IX", "V", "I"));
             int quotient = num / 1;
             num -= quotient * 1;
-            
         }
         
         return result.toString();
