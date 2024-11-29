@@ -9,82 +9,65 @@ class Solution {
         }
         
         if (num / 100 > 0) {
+            
+
+            String r =cleanUp(num, 100, "CM", "D", "C");
+            
+            result.append(r);
             int quotient = num / 100;
-            num -= 100 * quotient;
-            
-            if (quotient == 9) {
-                result.append("CM");
-                quotient -= quotient;
-            }
+            num -= quotient * 100;
 
-            if (quotient >= 5) {
-                result.append("D");
-                quotient -= 5;
-            } 
             
-            if (quotient == 4) {
-                result.append("CD");
-                quotient -= quotient;
-            }
-
-            if (quotient < 4) {
-                result.append("C".repeat(quotient));
-                quotient -= quotient;
-            }
         }
 
         if (num / 10 > 0) {
+            String r =cleanUp(num, 10, "XC", "L", "X");
+            
+            result.append(r);
             int quotient = num / 10;
-            num -= 10 * quotient;
-
-            if (quotient == 9) {
-                result.append("XC");
-                quotient -= quotient;
-            }
-
-            if (quotient >= 5) {
-                result.append("L");
-                quotient -= 5;
-            }
-
-            if (quotient == 4) {
-                result.append("XL");
-                quotient -= quotient;
-            }
-
-            if (quotient < 4) {
-                result.append("X".repeat(quotient));
-                quotient -= quotient;
-            }
+            num -= quotient * 10;
+            
         }
 
         if (num / 1 > 0) {
-            int quotient = num;
-            num -= quotient;
-
-            if (quotient == 9) {
-                result.append("IX");
-                quotient -= quotient;
-            }
-
-            if (quotient >= 5) {
-                result.append("V");
-                quotient -= 5;
-            } 
             
-            if (quotient == 4) {
-                result.append("IV");
-                quotient -= quotient;
-            }
-
-            if (quotient < 4) {
-                result.append("I".repeat(quotient));
-                quotient -= quotient;
-            }
-
+            
+            String r =cleanUp(num, 1, "IX", "V", "I");
+            
+            result.append(r);
+            int quotient = num / 1;
+            num -= quotient * 1;
             
         }
         
+        return result.toString();
+    }
+
+    public String cleanUp(int num, int divisor, String nine, String five, String one) {
+        StringBuilder result = new StringBuilder();
+        int quotient = num / divisor;
+        num -= quotient;
+
+        if (quotient == 9) {
+            result.append(nine);
+            quotient -= quotient;
+        }
+
+        if (quotient >= 5) {
+            result.append(five);
+            quotient -= 5;
+        } 
+        
+        if (quotient == 4) {
+            result.append(one + five);
+            quotient -= quotient;
+        }
+
+        if (quotient < 4) {
+            result.append(one.repeat(quotient));
+            quotient -= quotient;
+        }
+
         return result.toString();
     }
 }
