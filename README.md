@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gemma-Kim/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/gemma-Kim/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/gemma-Kim/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gemma-Kim/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gemma-Kim/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gemma-Kim/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/gemma-Kim/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
