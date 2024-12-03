@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gemma-Kim/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gemma-Kim/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gemma-Kim/LeetCode/tree/master/0200-number-of-islands) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/gemma-Kim/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/gemma-Kim/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gemma-Kim/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/gemma-Kim/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gemma-Kim/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gemma-Kim/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gemma-Kim/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
