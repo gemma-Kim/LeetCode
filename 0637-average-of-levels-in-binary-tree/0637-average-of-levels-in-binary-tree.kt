@@ -11,13 +11,13 @@
 class Solution {
     fun averageOfLevels(root: TreeNode?): DoubleArray {
         val result = ArrayList<Double>()
-        val currentNodes = LinkedList<TreeNode>()
+        val currentNodes = mutableListOf<TreeNode>()
         if (root != null) currentNodes.add(root)
         while (!currentNodes.isEmpty()) {
             val size = currentNodes.size
             var sum = 0L
             for (i in 0..size-1) {
-                val node = currentNodes.poll()
+                val node = currentNodes.removeAt(0)
                 if (node.left != null) currentNodes.add(node.left)
                 if (node.right != null) currentNodes.add(node.right)
                 sum += node.`val`
