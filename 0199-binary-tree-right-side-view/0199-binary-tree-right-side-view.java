@@ -15,28 +15,22 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        // bfs
-        // queue 로 동작
-        // 재귀적 동작이 아님
-        
         List<Integer> result = new ArrayList();
         if (root == null) return result;
-        Queue<TreeNode> nodes = new LinkedList();
-
-        nodes.add(root);
-        while (!nodes.isEmpty()) {
-            int queueSize = nodes.size();
-            TreeNode rightMostNode = null;
-
-            for (int i = 0; i < queueSize; i++) {
-                TreeNode node = nodes.poll();
-                rightMostNode = node;
-                if (node.left != null) nodes.add(node.left);
-                if (node.right != null) nodes.add(node.right);
+        List<TreeNode> currents = new ArrayList();
+        currents.add(root);
+        while(currents.size() > 0) {
+            int size = currents.size();
+            Integer rightSideVal = null;
+            for (int i = 0; i < size; i++) {
+                TreeNode node = currents.remove(0);
+                if (node.left != null) currents.add(node.left);
+                if (node.right != null) currents.add(node.right);
+                rightSideVal = node.val;
             }
-            
-            result.add(rightMostNode.val);
+            result.add(rightSideVal);
         }
         return result;
     }
+
 }
