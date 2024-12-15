@@ -1,7 +1,7 @@
 class RandomizedSet {
-    Set<Integer> set = new HashSet();
+    private Set<Integer> set;
     public RandomizedSet() {
-        
+        set = new HashSet<>();
     }
     
     public boolean insert(int val) {
