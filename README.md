@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gemma-Kim/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gemma-Kim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gemma-Kim/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gemma-Kim/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gemma-Kim/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/gemma-Kim/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/gemma-Kim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gemma-Kim/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gemma-Kim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gemma-Kim/LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
