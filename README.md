@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gemma-Kim/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/gemma-Kim/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gemma-Kim/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gemma-Kim/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/gemma-Kim/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gemma-Kim/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gemma-Kim/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/gemma-Kim/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gemma-Kim/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -236,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gemma-Kim/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gemma-Kim/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/gemma-Kim/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/gemma-Kim/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gemma-Kim/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gemma-Kim/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gemma-Kim/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
