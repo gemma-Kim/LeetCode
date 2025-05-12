@@ -16,13 +16,13 @@ function inorderTraversal(root: TreeNode | null): number[] {
     if (!root) return [];
     const result = [];
 
-    function bfs(node: TreeNode | null) {
+    function dfs(node: TreeNode | null) {
         if (node) {
-            if (node.left) bfs(node.left);
+            if (node.left) dfs(node.left);
             if (node.val !== null) result.push(node.val);
-            if (node.right) bfs(node.right);   
+            if (node.right) dfs(node.right);   
         }
     }
-    bfs(root);
+    dfs(root);
     return result;
 };
