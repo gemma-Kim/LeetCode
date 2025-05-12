@@ -17,10 +17,9 @@ var minDepth = function(root) {
         const [node, depth] = queue.shift();
         if (!node.left && !node.right) {
             return depth;
-        } else {
-            if (node.left) queue.push([node.left, depth + 1]);
-            if (node.right) queue.push([node.right, depth + 1]);
-        }
+        } 
+        if (node.left) queue.push([node.left, depth + 1]);
+        if (node.right) queue.push([node.right, depth + 1]);
     }
     return maxDepth;
 };
