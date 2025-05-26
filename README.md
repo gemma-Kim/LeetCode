@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gemma-Kim/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gemma-Kim/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/gemma-Kim/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/gemma-Kim/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/gemma-Kim/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gemma-Kim/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gemma-Kim/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gemma-Kim/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/gemma-Kim/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/gemma-Kim/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/gemma-Kim/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
