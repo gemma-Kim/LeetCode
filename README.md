@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gemma-Kim/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0455-assign-cookies](https://github.com/gemma-Kim/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/gemma-Kim/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/gemma-Kim/LeetCode/tree/master/0792-binary-search) |
 ## Sliding Window
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gemma-Kim/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/gemma-Kim/LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/gemma-Kim/LeetCode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/gemma-Kim/LeetCode/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gemma-Kim/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gemma-Kim/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/gemma-Kim/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/gemma-Kim/LeetCode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gemma-Kim/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gemma-Kim/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gemma-Kim/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/gemma-Kim/LeetCode/tree/master/0455-assign-cookies) |
 ## Binary Search Tree
 |  |
 | ------- |
