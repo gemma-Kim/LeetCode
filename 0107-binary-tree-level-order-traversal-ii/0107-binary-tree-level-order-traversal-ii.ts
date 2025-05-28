@@ -21,7 +21,6 @@ function levelOrderBottom(root: TreeNode | null): number[][] {
     while (q.length) {
         const size = q.length;
         const val = [];
-        console.log('size ', size)
         for (let i = 0; i < size; i++) {
             const current = q.shift();
             if (current.left) {
@@ -32,13 +31,12 @@ function levelOrderBottom(root: TreeNode | null): number[][] {
                 q.push(current.right);
                 val.push(current.right.val);
             }
-            
         }
         if (val.length) {
             result.push(val);
         }
     }
-    let reversedResult = [];
+    const reversedResult = [];
     for (let i = result.length-1; i >= 0; i--) {
         reversedResult.push(result[i]);
     }
