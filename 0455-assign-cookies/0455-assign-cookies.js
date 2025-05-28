@@ -4,15 +4,18 @@
  * @return {number}
  */
 var findContentChildren = function(g, s) {
-    let satisfiedCnt = 0;
-    g.sort((a,b) => a-b);
-    s.sort((a,b) => a-b);
-    while (s.length) {
-        if (s[0] >= g[0]) {
-            satisfiedCnt++;    
-            g = g.slice(1);
+    g.sort((a, b) => a - b); // 자식 만족도
+    s.sort((a, b) => a - b); // 쿠키 크기
+
+    let child = 0;
+    let cookie = 0;
+
+    while (child < g.length && cookie < s.length) {
+        if (s[cookie] >= g[child]) {
+            child++; // 이 자식은 만족함
         }
-        s = s.slice(1);
+        cookie++; // 쿠키는 소모됨
     }
-    return satisfiedCnt;
+
+    return child; // 만족한 자식 수
 };
