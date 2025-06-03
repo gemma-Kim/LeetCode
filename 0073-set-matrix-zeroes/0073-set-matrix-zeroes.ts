@@ -11,7 +11,6 @@ function setZeroes(matrix: number[][]): void {
             }
         }
     }
-    console.log('checkerM: ', checkerM)
 
     for (let r = 0; r < matrix.length; r++) {
         for (let c = 0; c < matrix[0].length; c++) {
