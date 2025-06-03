@@ -6,8 +6,8 @@ function setZeroes(matrix: number[][]): void {
     for (let r = 0; r < matrix.length; r++) {
         for (let c = 0; c < matrix[0].length; c++) {
             if (matrix[r][c] === 0) {
-                checkerM.set('row' + r, true);
-                checkerM.set('cloumn' + c, true);
+                if (!checkerM.get('row' + r)) checkerM.set('row' + r, true);
+                if (!checkerM.get('cloumn' + c)) checkerM.set('cloumn' + c, true);
             }
         }
     }
